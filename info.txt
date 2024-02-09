@@ -1,0 +1,121 @@
+{
+    //used to change the text of title at index.html
+    "title": {
+        "title": "Updated Neogym"
+    },
+    "nav": {
+        // identify that you can manipulate the elements of navbar nav0 is the first element and so on
+        //h0 is text
+        "h0": "Neogym",
+        "nav0": "Home",
+        "nav1": "Why us",
+        "nav2": "trainers",
+        "nav3": "Contact Us"
+    },
+
+    // modify the elemnts slides all text and s4,s9,s14,s19,s24 are buttons
+    "slide": {
+        "s0": "Fitness",
+        "s1": "Training",
+        "s2": "Neogym",
+        "s3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .",
+        "s4": "Contact Us",
+        "s5": "Fitness",
+        "s6": "Training",
+        "s7": "Neogym",
+        "s8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .",
+        "s9": "Contact Us",
+        "s10": "Fitness",
+        "s11": "Training",
+        "s12": "Neogym",
+        "s13": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .",
+        "s14": "Contact Us",
+        "s15": "Fitness",
+        "s16": "Training",
+        "s17": "Neogym",
+        "s18": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .",
+        "s19": "Contact Us",
+        "s20": "Fitness",
+        "s21": "Training",
+        "s22": "Neogym",
+        "s23": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse .",
+        "s24": "Contact Us"
+    },
+
+    // modify the elemnts of us section all text
+    "us": {
+        "u0": "Why Choose Us",
+        "u1": "QUALITY EQUIPMENT",
+        "u2": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "u3": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "u4": "NUTRITION",
+        "u5": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "u6": "HEALTHY DIET PLAN",
+        "u7": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "u8": "SPORT TRAINING",
+        "u9": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+    },
+
+    // modify the elemnts all text and h3 is button or a tag
+    "healthy": {
+        "h1": "HEALTHY MIND, HEALTHY BODY",
+        "h2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum",
+        "h3": "READ MORE"
+    },
+
+    // modify the elemnts all text
+    "trainer": {
+        "t0": "Our Gym Trainers",
+        "t1": "Smirth Jon",
+        "t2": "Jean Doe",
+        "t3": "Alex Den"
+    },
+
+    // modify the elemnts c1 is button
+    "contact": {
+        "c0": "Contact Us",
+        "c1": "Send"
+    },
+
+    // modify the elemnts all text 
+    "info": {
+        "i0": "Location",
+        "i1": "+02 1234567890",
+        "i2": "demo@gmail.com"
+    },
+
+    // modify the elemnts text
+    "footer": {
+        "f0": "2020 All Rights Reserved. Design by",
+        "f1": "Free Html Templates"
+    },
+
+    // modify the colors of sections
+    "color": {
+        "nav": ".",
+        "slide": ".",
+        "us": ".",
+        "healthy": ".",
+        "trainer": ".",
+        "contact": ".",
+        "info": ".",
+        "footer": "."
+    }
+}
+{
+     "images": {
+        // image sof us section
+        "img1": "images/u-1.png",
+        "img2": "images/u-4.png",
+        "img3": "images/u-2.png",
+        "img4": "images/u-3.png",
+
+        //images of tarnier
+        "img5": "images/t1.jpg",
+        "img6": "images/t2.jpg",
+        "img7": "images/t3.jpg",
+
+        //images of contact 
+        "img8": "images/contact-img.jpg"
+    }
+}

@@ -1,0 +1,12 @@
+{
+     "images": {
+        "img1": "images/u-1.png",
+        "img2": "images/u-4.png",
+        "img3": "images/u-2.png",
+        "img4": "images/u-3.png",
+        "img5": "images/t1.jpg",
+        "img6": "images/t2.jpg",
+        "img7": "images/t3.jpg",
+        "img8": "images/contact-img.jpg"
+    }
+}
